@@ -1,0 +1,6 @@
+Bard==0.1
+GoogleBard==2.1.0
+openai_whisper==20230314
+playsound==1.2.2
+pyttsx3==2.90
+SpeechRecognition==3.10.0
