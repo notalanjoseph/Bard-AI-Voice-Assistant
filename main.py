@@ -7,8 +7,8 @@ import warnings
 import sys
 
 # Paste your Bard Token (check README.md for where to find yours)
-token = 'aghROKGcysKUOhA1XPlHodigfAtcRfC7jOo7OA3rxDcBzV6KzqrSCHYsPzmbt_5h2HoBDA.'
-ts_token = 'sidts-CjEBSAxbGdkTVzjYEMu8JenjNJ2D5bYMhD0ZMT-9ERujj7bRCvu68NAruNLE1FL0nJucEAA'
+token = ''
+ts_token = ''
 
 chatbot = Chatbot(token, ts_token)
 r = sr.Recognizer()
